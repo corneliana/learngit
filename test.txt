@@ -1,2 +1,0 @@
-test: how to retrieve a file that has been commited but deleted?
-and how to terminate the file for good as it is indeed to be deleted?
